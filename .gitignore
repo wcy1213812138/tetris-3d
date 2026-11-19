@@ -1,0 +1,14 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+obj/
+bin/
+*.user
+*.pdb
+*.obj
+*.exe
+*.dll
+__pycache__/
